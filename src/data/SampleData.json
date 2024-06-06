@@ -1,0 +1,22 @@
+[
+  { "id": 1, "value": "1", "intensity": 3, "tier": 2 },
+  { "id": 2, "value": "2", "intensity": 1, "tier": 1 },
+  { "id": 3, "value": "3", "intensity": 2, "tier": 3 },
+  { "id": 4, "value": "4", "intensity": 1, "tier": 2 },
+  { "id": 5, "value": "5", "intensity": 3, "tier": 1 },
+  { "id": 6, "value": "6", "intensity": 2, "tier": 1 },
+  { "id": 7, "value": "7", "intensity": 1, "tier": 3 },
+  { "id": 8, "value": "8", "intensity": 3, "tier": 2 },
+  { "id": 9, "value": "9", "intensity": 2, "tier": 3 },
+  { "id": 10, "value": "10", "intensity": 1, "tier": 1 },
+  { "id": 11, "value": "11", "intensity": 3, "tier": 1 },
+  { "id": 12, "value": "12", "intensity": 2, "tier": 2 },
+  { "id": 13, "value": "13", "intensity": 1, "tier": 3 },
+  { "id": 14, "value": "14", "intensity": 3, "tier": 1 },
+  { "id": 15, "value": "15", "intensity": 2, "tier": 2 },
+  { "id": 16, "value": "16", "intensity": 1, "tier": 3 },
+  { "id": 17, "value": "17", "intensity": 3, "tier": 2 },
+  { "id": 18, "value": "18", "intensity": 2, "tier": 1 },
+  { "id": 19, "value": "19", "intensity": 1, "tier": 3 },
+  { "id": 20, "value": "20", "intensity": 3, "tier": 2 }
+]
